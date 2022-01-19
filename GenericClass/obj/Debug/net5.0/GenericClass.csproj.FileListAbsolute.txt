@@ -1,0 +1,16 @@
+C:\Codelearnershub\GenericClass\GenericClass\bin\Debug\net5.0\GenericClass.exe
+C:\Codelearnershub\GenericClass\GenericClass\bin\Debug\net5.0\GenericClass.deps.json
+C:\Codelearnershub\GenericClass\GenericClass\bin\Debug\net5.0\GenericClass.runtimeconfig.json
+C:\Codelearnershub\GenericClass\GenericClass\bin\Debug\net5.0\GenericClass.runtimeconfig.dev.json
+C:\Codelearnershub\GenericClass\GenericClass\bin\Debug\net5.0\GenericClass.dll
+C:\Codelearnershub\GenericClass\GenericClass\bin\Debug\net5.0\ref\GenericClass.dll
+C:\Codelearnershub\GenericClass\GenericClass\bin\Debug\net5.0\GenericClass.pdb
+C:\Codelearnershub\GenericClass\GenericClass\obj\Debug\net5.0\GenericClass.csproj.AssemblyReference.cache
+C:\Codelearnershub\GenericClass\GenericClass\obj\Debug\net5.0\GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codelearnershub\GenericClass\GenericClass\obj\Debug\net5.0\GenericClass.AssemblyInfoInputs.cache
+C:\Codelearnershub\GenericClass\GenericClass\obj\Debug\net5.0\GenericClass.AssemblyInfo.cs
+C:\Codelearnershub\GenericClass\GenericClass\obj\Debug\net5.0\GenericClass.csproj.CoreCompileInputs.cache
+C:\Codelearnershub\GenericClass\GenericClass\obj\Debug\net5.0\GenericClass.dll
+C:\Codelearnershub\GenericClass\GenericClass\obj\Debug\net5.0\ref\GenericClass.dll
+C:\Codelearnershub\GenericClass\GenericClass\obj\Debug\net5.0\GenericClass.pdb
+C:\Codelearnershub\GenericClass\GenericClass\obj\Debug\net5.0\GenericClass.genruntimeconfig.cache
